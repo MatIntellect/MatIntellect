@@ -6,4 +6,4 @@ Website: https://matintellect.com/en
 
 ### Articles
 
-- [AI agents for business - how I work with Jes](https://github.com/MatIntellect/posts/blob/main/ii-agent-biznes-assistent-jes.md) · [original](https://matintellect.com/en/posts/ii-agent-biznes-assistent-jes)
+- [AI Agent for Business: What It Can Take Off Your Plate](https://github.com/MatIntellect/posts/blob/main/ai-agent-for-business.md) · [original](https://matintellect.com/en/posts/ai-agent-for-business)

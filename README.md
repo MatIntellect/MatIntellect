@@ -1,8 +1,8 @@
-## MatIntellect — AI Agency for Business
+## MatIntellect
 
-Consulting, business audits, AI system architecture and development
+I'm Mat. 10 years leading IT projects. Now I build AI systems and write about how it works in practice.
 
-Website: https://matintellect.com/en
+Blog: https://matintellect.com/en
 
 ### Articles
 

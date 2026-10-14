@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI automation: where to start](https://github.com/MatIntellect/posts/blob/main/ai-automation-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-automation-where-to-start)
 - [#AI: AI call analysis: how it works](https://github.com/MatIntellect/posts/blob/main/ai-call-analysis-how-it-works.md) · [original](https://matintellect.com/en/posts/ai-call-analysis-how-it-works)
 - [AI tools for business: picking the right mix](https://github.com/MatIntellect/posts/blob/main/ai-tools-for-business-picking-the-right-mix.md) · [original](https://matintellect.com/en/posts/ai-tools-for-business-picking-the-right-mix)
 - [AI development for business: from first call to launch](https://github.com/MatIntellect/posts/blob/main/ai-development-from-first-call-to-launch.md) · [original](https://matintellect.com/en/posts/ai-development-from-first-call-to-launch)

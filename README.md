@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI system maintenance: what breaks after launch](https://github.com/MatIntellect/posts/blob/main/ai-system-maintenance-what-breaks-after-launch.md) · [original](https://matintellect.com/en/posts/ai-system-maintenance-what-breaks-after-launch)
 - [AI agent architecture: 5 questions before writing code](https://github.com/MatIntellect/posts/blob/main/ai-agent-architecture-questions-before-writing-code.md) · [original](https://matintellect.com/en/posts/ai-agent-architecture-questions-before-writing-code)
 - [AI automation: where to start](https://github.com/MatIntellect/posts/blob/main/ai-automation-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-automation-where-to-start)
 - [#AI: AI call analysis: how it works](https://github.com/MatIntellect/posts/blob/main/ai-call-analysis-how-it-works.md) · [original](https://matintellect.com/en/posts/ai-call-analysis-how-it-works)

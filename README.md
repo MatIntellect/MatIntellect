@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI in sales: where to start](https://github.com/MatIntellect/posts/blob/main/ai-in-sales-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-in-sales-where-to-start)
 - [How much does an AI agent cost: what shapes the price](https://github.com/MatIntellect/posts/blob/main/how-much-does-an-ai-agent-cost.md) · [original](https://matintellect.com/en/posts/how-much-does-an-ai-agent-cost)
 - [AI system maintenance: what breaks after launch](https://github.com/MatIntellect/posts/blob/main/ai-system-maintenance-what-breaks-after-launch.md) · [original](https://matintellect.com/en/posts/ai-system-maintenance-what-breaks-after-launch)
 - [AI agent architecture: 5 questions before writing code](https://github.com/MatIntellect/posts/blob/main/ai-agent-architecture-questions-before-writing-code.md) · [original](https://matintellect.com/en/posts/ai-agent-architecture-questions-before-writing-code)

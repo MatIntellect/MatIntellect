@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [Instagram DM automation: booking with checks](https://github.com/MatIntellect/posts/blob/main/instagram-dm-automation-booking-with-checks.md) · [original](https://matintellect.com/en/posts/instagram-dm-automation-booking-with-checks)
 - [AI content factory: scaling, not replacement](https://github.com/MatIntellect/posts/blob/main/ai-content-factory-scaling-not-replacement.md) · [original](https://matintellect.com/en/posts/ai-content-factory-scaling-not-replacement)
 - [AI in sales: where to start](https://github.com/MatIntellect/posts/blob/main/ai-in-sales-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-in-sales-where-to-start)
 - [How much does an AI agent cost: what shapes the price](https://github.com/MatIntellect/posts/blob/main/how-much-does-an-ai-agent-cost.md) · [original](https://matintellect.com/en/posts/how-much-does-an-ai-agent-cost)

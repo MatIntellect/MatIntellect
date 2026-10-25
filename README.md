@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI for business problems: scale without firing people](https://github.com/MatIntellect/posts/blob/main/ai-for-business-problems-scale-without-firing-people.md) · [original](https://matintellect.com/en/posts/ai-for-business-problems-scale-without-firing-people)
 - [Telegram bot development: business work in topics](https://github.com/MatIntellect/posts/blob/main/telegram-bot-development-business-topics.md) · [original](https://matintellect.com/en/posts/telegram-bot-development-business-topics)
 - [Instagram DM automation: booking with checks](https://github.com/MatIntellect/posts/blob/main/instagram-dm-automation-booking-with-checks.md) · [original](https://matintellect.com/en/posts/instagram-dm-automation-booking-with-checks)
 - [AI content factory: scaling, not replacement](https://github.com/MatIntellect/posts/blob/main/ai-content-factory-scaling-not-replacement.md) · [original](https://matintellect.com/en/posts/ai-content-factory-scaling-not-replacement)

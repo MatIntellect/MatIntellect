@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [#AI: AI maintenance cost: what you pay per month](https://github.com/MatIntellect/posts/blob/main/ai-maintenance-cost-per-month.md) · [original](https://matintellect.com/en/posts/ai-maintenance-cost-per-month)
 - [#AI: Multi-agent system for business: when to build a team](https://github.com/MatIntellect/posts/blob/main/multi-agent-system-for-business-when-to-build-a-team.md) · [original](https://matintellect.com/en/posts/multi-agent-system-for-business-when-to-build-a-team)
 - [#AI: AI implementation: start with lost revenue](https://github.com/MatIntellect/posts/blob/main/ai-implementation-start-with-lost-revenue.md) · [original](https://matintellect.com/en/posts/ai-implementation-start-with-lost-revenue)
 - [#AI: AI voice agent: why it needs a system](https://github.com/MatIntellect/posts/blob/main/ai-voice-agent-needs-system.md) · [original](https://matintellect.com/en/posts/ai-voice-agent-needs-system)

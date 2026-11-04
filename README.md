@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [#AI: AI content factory vs content manager: which fits](https://github.com/MatIntellect/posts/blob/main/ai-content-factory-vs-content-manager.md) · [original](https://matintellect.com/en/posts/ai-content-factory-vs-content-manager)
 - [#AI: Digital employee: how to help your team grow](https://github.com/MatIntellect/posts/blob/main/digital-employee-help-team-grow.md) · [original](https://matintellect.com/en/posts/digital-employee-help-team-grow)
 - [#AI: AI Agent Implementation: Where to Start](https://github.com/MatIntellect/posts/blob/main/ai-agent-implementation-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-agent-implementation-where-to-start)
 - [#AI: AI maintenance cost: what you pay per month](https://github.com/MatIntellect/posts/blob/main/ai-maintenance-cost-per-month.md) · [original](https://matintellect.com/en/posts/ai-maintenance-cost-per-month)

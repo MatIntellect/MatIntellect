@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [#AI: AI Bot vs Chatbot: How to Choose](https://github.com/MatIntellect/posts/blob/main/ai-bot-vs-chatbot-how-to-choose.md) · [original](https://matintellect.com/en/posts/ai-bot-vs-chatbot-how-to-choose)
 - [#AI: AI content factory vs content manager: which fits](https://github.com/MatIntellect/posts/blob/main/ai-content-factory-vs-content-manager.md) · [original](https://matintellect.com/en/posts/ai-content-factory-vs-content-manager)
 - [#AI: Digital employee: how to help your team grow](https://github.com/MatIntellect/posts/blob/main/digital-employee-help-team-grow.md) · [original](https://matintellect.com/en/posts/digital-employee-help-team-grow)
 - [#AI: AI Agent Implementation: Where to Start](https://github.com/MatIntellect/posts/blob/main/ai-agent-implementation-where-to-start.md) · [original](https://matintellect.com/en/posts/ai-agent-implementation-where-to-start)

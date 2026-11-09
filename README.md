@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI agent setup: a safe onboarding checklist](https://github.com/MatIntellect/posts/blob/main/ai-agent-setup-after-launch.md) · [original](https://matintellect.com/en/posts/ai-agent-setup-after-launch)
 - [#AI: Updating AI agent model without breaking things](https://github.com/MatIntellect/posts/blob/main/updating-ai-agent-model-without-breaking.md) · [original](https://matintellect.com/en/posts/updating-ai-agent-model-without-breaking)
 - [#AI: AI agent memory: how it remembers clients](https://github.com/MatIntellect/posts/blob/main/ai-agent-memory-how-it-remembers-clients.md) · [original](https://matintellect.com/en/posts/ai-agent-memory-how-it-remembers-clients)
 - [#AI: Business process audit: what to check before AI](https://github.com/MatIntellect/posts/blob/main/business-process-audit-before-ai.md) · [original](https://matintellect.com/en/posts/business-process-audit-before-ai)

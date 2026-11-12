@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI employee task boundaries: a practical review checklist](https://github.com/MatIntellect/posts/blob/main/ai-employee-what-tasks-should-i-automate.md) · [original](https://matintellect.com/en/posts/ai-employee-what-tasks-should-i-automate)
 - [AI agents for marketing: a data quality checklist for briefing pipelines](https://github.com/MatIntellect/posts/blob/main/ai-marketing-agent-tasks-strategy.md) · [original](https://matintellect.com/en/posts/ai-marketing-agent-tasks-strategy)
 - [Designing a human-approved content workflow](https://github.com/MatIntellect/posts/blob/main/how-to-build-an-ai-content-factory.md) · [original](https://matintellect.com/en/posts/how-to-build-an-ai-content-factory)
 - [AI agent setup: a safe onboarding checklist](https://github.com/MatIntellect/posts/blob/main/ai-agent-setup-after-launch.md) · [original](https://matintellect.com/en/posts/ai-agent-setup-after-launch)

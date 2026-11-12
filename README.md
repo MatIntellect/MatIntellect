@@ -37,4 +37,4 @@ Blog: https://matintellect.com/en
 - [Chatbots for small business marketing](https://github.com/MatIntellect/posts/blob/main/chatbots-for-small-business-marketing.md) · [original](https://matintellect.com/en/posts/chatbots-for-small-business-marketing)
 - [Why do you need an AI content factory?](https://github.com/MatIntellect/posts/blob/main/why-do-you-need-an-ai-content-factory.md) · [original](https://matintellect.com/en/posts/why-do-you-need-an-ai-content-factory)
 - [AI assistant for business: start with clear tasks](https://github.com/MatIntellect/posts/blob/main/ai-assistant-for-business-clear-tasks.md) · [original](https://matintellect.com/en/posts/ai-assistant-for-business-clear-tasks)
-- [AI Agent for Business: What It Can Take Off Your Plate](https://github.com/MatIntellect/posts/blob/main/ai-agent-for-business.md) · [original](https://matintellect.com/en/posts/ai-agent-for-business)
+- [AI agents for business: architecture notes for a personal operations agent](https://github.com/MatIntellect/posts/blob/main/ai-agent-for-business.md) · [original](https://matintellect.com/en/posts/ai-agent-for-business)

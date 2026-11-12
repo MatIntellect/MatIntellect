@@ -8,7 +8,7 @@ Blog: https://matintellect.com/en
 
 - [AI employee task boundaries: a practical review checklist](https://github.com/MatIntellect/posts/blob/main/ai-employee-what-tasks-should-i-automate.md) · [original](https://matintellect.com/en/posts/ai-employee-what-tasks-should-i-automate)
 - [AI agents for marketing: a data quality checklist for briefing pipelines](https://github.com/MatIntellect/posts/blob/main/ai-marketing-agent-tasks-strategy.md) · [original](https://matintellect.com/en/posts/ai-marketing-agent-tasks-strategy)
-- [Designing a human-approved content workflow](https://github.com/MatIntellect/posts/blob/main/how-to-build-an-ai-content-factory.md) · [original](https://matintellect.com/en/posts/how-to-build-an-ai-content-factory)
+- [How to build an AI content factory: architecture note with a human approval step](https://github.com/MatIntellect/posts/blob/main/how-to-build-an-ai-content-factory.md) · [original](https://matintellect.com/en/posts/how-to-build-an-ai-content-factory)
 - [AI agent setup: a safe onboarding checklist](https://github.com/MatIntellect/posts/blob/main/ai-agent-setup-after-launch.md) · [original](https://matintellect.com/en/posts/ai-agent-setup-after-launch)
 - [#AI: Updating AI agent model without breaking things](https://github.com/MatIntellect/posts/blob/main/updating-ai-agent-model-without-breaking.md) · [original](https://matintellect.com/en/posts/updating-ai-agent-model-without-breaking)
 - [#AI: AI agent memory: how it remembers clients](https://github.com/MatIntellect/posts/blob/main/ai-agent-memory-how-it-remembers-clients.md) · [original](https://matintellect.com/en/posts/ai-agent-memory-how-it-remembers-clients)

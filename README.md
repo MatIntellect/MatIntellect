@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI video budget and quality: a developer's workflow](https://github.com/MatIntellect/posts/blob/main/how-to-make-ai-video-budget-and-quality.md) · [original](https://matintellect.com/en/posts/how-to-make-ai-video-budget-and-quality)
 - [AI SEO: a practical audit for search and AI answer visibility](https://github.com/MatIntellect/posts/blob/main/ai-seo-search-and-ai-answers.md) · [original](https://matintellect.com/en/posts/ai-seo-search-and-ai-answers)
 - [AI employee task boundaries: a practical review checklist](https://github.com/MatIntellect/posts/blob/main/ai-employee-what-tasks-should-i-automate.md) · [original](https://matintellect.com/en/posts/ai-employee-what-tasks-should-i-automate)
 - [AI agents for marketing: a data quality checklist for briefing pipelines](https://github.com/MatIntellect/posts/blob/main/ai-marketing-agent-tasks-strategy.md) · [original](https://matintellect.com/en/posts/ai-marketing-agent-tasks-strategy)

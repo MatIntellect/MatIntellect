@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [AI consulting for developers: test the approval step before you build](https://github.com/MatIntellect/posts/blob/main/ai-consulting-before-you-build.md) · [original](https://matintellect.com/en/posts/ai-consulting-before-you-build)
 - [Make an AI receptionist sound human: a developer's guide](https://github.com/MatIntellect/posts/blob/main/make-an-ai-receptionist-sound-human.md) · [original](https://matintellect.com/en/posts/make-an-ai-receptionist-sound-human)
 - [AI video budget and quality: a developer's workflow](https://github.com/MatIntellect/posts/blob/main/how-to-make-ai-video-budget-and-quality.md) · [original](https://matintellect.com/en/posts/how-to-make-ai-video-budget-and-quality)
 - [AI SEO: a practical audit for search and AI answer visibility](https://github.com/MatIntellect/posts/blob/main/ai-seo-search-and-ai-answers.md) · [original](https://matintellect.com/en/posts/ai-seo-search-and-ai-answers)

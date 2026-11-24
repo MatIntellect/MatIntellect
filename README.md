@@ -6,6 +6,7 @@ Blog: https://matintellect.com/en
 
 ### Articles
 
+- [Voice AI agent: test the tool call before you build the voice app](https://github.com/MatIntellect/posts/blob/main/voice-ai-agent-work.md) · [original](https://matintellect.com/en/posts/voice-ai-agent-work)
 - [AI audit: prove the job reached its destination](https://github.com/MatIntellect/posts/blob/main/ai-audit-how-to-check-a-running-system.md) · [original](https://matintellect.com/en/posts/ai-audit-how-to-check-a-running-system)
 - [AI consulting for developers: test the approval step before you build](https://github.com/MatIntellect/posts/blob/main/ai-consulting-before-you-build.md) · [original](https://matintellect.com/en/posts/ai-consulting-before-you-build)
 - [Make an AI receptionist sound human: a developer's guide](https://github.com/MatIntellect/posts/blob/main/make-an-ai-receptionist-sound-human.md) · [original](https://matintellect.com/en/posts/make-an-ai-receptionist-sound-human)
